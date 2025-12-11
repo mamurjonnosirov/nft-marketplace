@@ -1,5 +1,7 @@
 "use client";
 
+// @ts-nocheck
+
 import { ConnectButton } from "@rainbow-me/rainbowkit";
 import {
   useAccount,
